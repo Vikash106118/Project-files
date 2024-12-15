@@ -1,2 +1,0 @@
-#define MAX_ACCOUNTS 100
-#define MAX_NAME_LENGTH 50
